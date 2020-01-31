@@ -11,7 +11,7 @@ cities in the United States (Chicago, New York City, Washington). This is an
 interactive program which takes information of the user in order to compute
 descriptive statistics of the data.
 
-##Software Used
+## Software Used
 
 * Python 3 (Libraries: Pandas). *You can install Anaconda*
 * Text editor Atom
